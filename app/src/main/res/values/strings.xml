@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multiscreen Orientación</string>
+    <string name="texto_vertical">Vista en VERTICAL</string>
+    <string name="texto_horizontal">Vista en HORIZONTAL</string>
+</resources>
